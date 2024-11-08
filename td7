@@ -1,0 +1,10 @@
+1) si e1 est a 1 et e2 a 0, on a un additionneur. 
+
+2) Pour faire un AND, il faut que e1 soit 0 pour que le multiplexeur laisse passer input2 et e2 soit 01 (1). Pour le not, e1 peut avoir nimporte quelle valeur car le multiplexeur ne prend pas input1 en entree, et e2 doit etre 10 
+
+ex4 : 
+c'est un diviseur d'horloge, il saute un front montant sur 2. fm-fd-fm-fd-fm => fm-fd-fd-fm 
+
+ex2 : 
+1) le 5eme bit
+2) les bits 14 et 15
